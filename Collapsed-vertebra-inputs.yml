@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/vertebroplasty-collapsed-vertebra---primary.py
+inputModule3:
+  class: File
+  path: python/collapsed-vertebra-spine---primary.py
+inputModule4:
+  class: File
+  path: python/collapsed-vertebra---primary.py
+inputModule5:
+  class: File
+  path: python/thoracic-collapsed-vertebra---primary.py
+inputModule6:
+  class: File
+  path: python/collapsed-vertebra-lumbar---primary.py
+inputModule7:
+  class: File
+  path: python/cervical-collapsed-vertebra---primary.py
+inputModule8:
+  class: File
+  path: python/collapsed-vertebra-osteoporosis---primary.py
+inputModule9:
+  class: File
+  path: python/collapsed-vertebra-wedge---primary.py
+inputModule10:
+  class: File
+  path: python/collapsed-vertebra-closed---primary.py
+inputModule11:
+  class: File
+  path: python/vertebra---primary.py
+inputModule12:
+  class: File
+  path: python/collapsed-vertebra-procedure---primary.py
+inputModule13:
+  class: File
+  path: python/collapsed-vertebra-classified---secondary.py
+inputModule14:
+  class: File
+  path: python/collapsed-vertebra-decompression---secondary.py
+inputModule15:
+  class: File
+  path: python/collapsed-vertebra-spine---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
